@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
   <head>
-    <title>swetha naye<title>
+    <title>swetha naye</title>
     <head>
       <html>
